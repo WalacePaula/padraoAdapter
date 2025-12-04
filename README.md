@@ -19,3 +19,4 @@ O projeto segue a estrutura do Adapter de Objeto (Composition) e é composto por
 
 ## Diagrama de Classes
 ![Diagrama de Classes](PadraoAdapter.png)
+
